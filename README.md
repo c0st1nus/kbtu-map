@@ -17,7 +17,7 @@ Start the project in dev mode via:
 ```
 bun run tauri dev
 ```
-_This scripts starts the tauri-cli, options of which located in `./src-tauri/tauri.conf.json`
+_This scripts starts the tauri-cli, options of which located in `./src-tauri/tauri.conf.json`_
 
 ## Recommended IDE Setup
 
