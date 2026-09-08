@@ -23,4 +23,4 @@ _This scripts starts the tauri-cli, options of which located in `./src-tauri/tau
 
 [VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
 
-_Written by [c0st1nus](https://github.com/c0st1nus)_
+_Written by [c0st1nus](https://github.com/c0st1nus), [vanyok](https://github.com/space-beetween)_
